@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4bacfc10-95c0-4cb3-99cc-e7175fa3f090</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c960600-eb2d-4488-9c80-17e397f55d6f</id>
+      <masked>false</masked>
+      <name>SiteUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eddf4cb8-dc94-4f08-a9b0-299c66304622</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8000df26-b7fb-4e66-a170-8396ee85ae3d</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cdf3d8c9-7fb9-4cf1-8a95-8b86e4edca30</id>
+      <masked>false</masked>
+      <name>ProductName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e37a42a-6363-479b-a0ca-87f5cccca8b0</id>
+      <masked>false</masked>
+      <name>ProductPrice</name>
+   </variable>
+</TestCaseEntity>

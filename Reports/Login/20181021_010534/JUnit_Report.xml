@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login" time="24" tests="1" failures="0" errors="0">
+   <testsuite name="Login" tests="1" failures="0" errors="0" time="24" timestamp="2018-10-21 01:05:36" hostname="NITISH - home" id="Test Suites/Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\Kula\\Project\\KulaProject\\New\\Kula\\Reports\\Login\\20181021_010534"/>
+         <property name="logFiles" value="E:\\Kula\\Project\\KulaProject\\New\\Kula\\Reports\\Login\\20181021_010534\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="NITISH - home"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="192.168.0.103"/>
+         <property name="sessionId" value="75c677225d2124061d6b69718278f794"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/LoginWithValidCreds" classname="Test Cases/LoginWithValidCreds" status="PASSED">
+         <system-out><![CDATA[2018-10-21 01:05:37 - [TEST_CASE][PASSED] - Test Cases/LoginWithValidCreds: Test Cases/LoginWithValidCreds
+
+2018-10-21 01:05:38 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-21 01:05:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-21 01:05:43 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://kula-9ad00.firebaseapp.com/' successfully
+
+2018-10-21 01:05:54 - [MESSAGE][PASSED] - Navigate to 'https://kula-9ad00.firebaseapp.com/' successfully
+
+2018-10-21 01:05:54 - [TEST_STEP][PASSED] - setText: Text 'kula4@kula.ai' is set on object 'Object Repository/Page_ReactJS Firebase/input_Login_exampleInputEmail1'
+
+2018-10-21 01:05:55 - [MESSAGE][PASSED] - Text 'kula4@kula.ai' is set on object 'Object Repository/Page_ReactJS Firebase/input_Login_exampleInputEmail1'
+
+2018-10-21 01:05:55 - [TEST_STEP][PASSED] - setText: Text 'kulaai' is set on object 'Object Repository/Page_ReactJS Firebase/input_Login_exampleInputPasswo'
+
+2018-10-21 01:05:56 - [MESSAGE][PASSED] - Text 'kulaai' is set on object 'Object Repository/Page_ReactJS Firebase/input_Login_exampleInputPasswo'
+
+2018-10-21 01:05:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_ReactJS Firebase/button_Login' is clicked on
+
+2018-10-21 01:05:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ReactJS Firebase/button_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-21 01:05:36 - [TEST_SUITE][PASSED] - Login: Test Cases/LoginWithValidCreds]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

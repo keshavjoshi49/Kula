@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OpenUrl</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee8f262e-4498-4f3a-ae65-1b2f60a27ee8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7cb06117-a0d8-4edd-a1f0-8cb742a5c13b</id>
+      <masked>false</masked>
+      <name>SiteUrl</name>
+   </variable>
+</TestCaseEntity>

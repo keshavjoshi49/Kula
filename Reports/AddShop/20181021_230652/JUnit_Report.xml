@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="AddShop" time="38" tests="1" failures="0" errors="0">
+   <testsuite name="AddShop" tests="1" failures="0" errors="0" time="38" timestamp="2018-10-21 23:06:55" hostname="NITISH - home" id="Test Suites/AddShop">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\Kula\\Project\\KulaProject\\New\\Kula\\Reports\\AddShop\\20181021_230652"/>
+         <property name="logFiles" value="E:\\Kula\\Project\\KulaProject\\New\\Kula\\Reports\\AddShop\\20181021_230652\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="NITISH - home"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="192.168.0.103"/>
+         <property name="sessionId" value="c965a0f3e297793e220f07a06e3c4f42"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/AddShop/AddShop" classname="Test Cases/AddShop/AddShop" status="PASSED">
+         <system-out><![CDATA[2018-10-21 23:06:56 - [TEST_CASE][PASSED] - Test Cases/AddShop/AddShop: Test Cases/AddShop/AddShop
+
+2018-10-21 23:06:57 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-21 23:07:02 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-21 23:07:02 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://kula-9ad00.firebaseapp.com/' successfully
+
+2018-10-21 23:07:22 - [MESSAGE][PASSED] - Navigate to 'https://kula-9ad00.firebaseapp.com/' successfully
+
+2018-10-21 23:07:22 - [TEST_STEP][PASSED] - setText: Text 'kula4@kula.ai' is set on object 'Object Repository/Login/input_Login_exampleInputEmail1'
+
+2018-10-21 23:07:22 - [MESSAGE][PASSED] - Text 'kula4@kula.ai' is set on object 'Object Repository/Login/input_Login_exampleInputEmail1'
+
+2018-10-21 23:07:22 - [TEST_STEP][PASSED] - setText: Text 'kulaai' is set on object 'Object Repository/Login/input_Login_exampleInputPasswo'
+
+2018-10-21 23:07:23 - [MESSAGE][PASSED] - Text 'kulaai' is set on object 'Object Repository/Login/input_Login_exampleInputPasswo'
+
+2018-10-21 23:07:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Login/button_Login' is clicked on
+
+2018-10-21 23:07:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_Login' is clicked on
+
+2018-10-21 23:07:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddShop/ShopDetails' is clicked on
+
+2018-10-21 23:07:30 - [MESSAGE][PASSED] - Object: 'Object Repository/AddShop/ShopDetails' is clicked on
+
+2018-10-21 23:07:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddShop/Page_ReactJS Firebase/button_My Shop' is clicked on
+
+2018-10-21 23:07:31 - [MESSAGE][PASSED] - Object: 'Object Repository/AddShop/Page_ReactJS Firebase/button_My Shop' is clicked on
+
+2018-10-21 23:07:31 - [TEST_STEP][PASSED] - setText: Text 'def' is set on object 'Object Repository/AddShop/Page_ReactJS Firebase/input_Name_form-control'
+
+2018-10-21 23:07:32 - [MESSAGE][PASSED] - Text 'def' is set on object 'Object Repository/AddShop/Page_ReactJS Firebase/input_Name_form-control'
+
+2018-10-21 23:07:32 - [TEST_STEP][PASSED] - setText: Text 'def' is set on object 'Object Repository/AddShop/Page_ReactJS Firebase/input_Address_form-control'
+
+2018-10-21 23:07:33 - [MESSAGE][PASSED] - Text 'def' is set on object 'Object Repository/AddShop/Page_ReactJS Firebase/input_Address_form-control']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-21 23:06:55 - [TEST_SUITE][PASSED] - AddShop: Test Cases/AddShop/AddShop]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

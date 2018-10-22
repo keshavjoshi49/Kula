@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_AddProduct</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-10-23T00:48:27</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>c5907b6c-8390-46f5-993b-c5ff23155a34</testSuiteGuid>
+   <testCaseLink>
+      <guid>8446ff08-704c-47e3-b7e8-a5807e3abcbe</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AddProduct/AddProduct</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1782a4b0-c350-4a0b-a60c-575f1ec38c3f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SiteUrlTestData</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>40e406d5-cb14-48fa-9ad8-3cb9fb09ca3d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginTestData</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>40198a19-1243-408c-a1fd-f12040fa7a72</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AddProductTestData</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>1782a4b0-c350-4a0b-a60c-575f1ec38c3f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SiteUrl</value>
+         <variableId>0c960600-eb2d-4488-9c80-17e397f55d6f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>40e406d5-cb14-48fa-9ad8-3cb9fb09ca3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
+         <variableId>eddf4cb8-dc94-4f08-a9b0-299c66304622</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>40e406d5-cb14-48fa-9ad8-3cb9fb09ca3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>8000df26-b7fb-4e66-a170-8396ee85ae3d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>40198a19-1243-408c-a1fd-f12040fa7a72</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ProductName</value>
+         <variableId>cdf3d8c9-7fb9-4cf1-8a95-8b86e4edca30</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>40198a19-1243-408c-a1fd-f12040fa7a72</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ProductPrice</value>
+         <variableId>7e37a42a-6363-479b-a0ca-87f5cccca8b0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

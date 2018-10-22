@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="AddShop" time="32" tests="1" failures="0" errors="0">
+   <testsuite name="AddShop" tests="1" failures="0" errors="0" time="32" timestamp="2018-10-22 00:07:55" hostname="NITISH - home" id="Test Suites/AddShop">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\Kula\\Project\\KulaProject\\New\\Kula\\Reports\\AddShop\\20181022_000746"/>
+         <property name="logFiles" value="E:\\Kula\\Project\\KulaProject\\New\\Kula\\Reports\\AddShop\\20181022_000746\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="NITISH - home"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="192.168.0.103"/>
+         <property name="sessionId" value="589e2d930ceb54840caab4206ba9e1bd"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/AddShop/AddShop" classname="Test Cases/AddShop/AddShop" status="PASSED">
+         <system-out><![CDATA[2018-10-22 00:07:56 - [TEST_CASE][PASSED] - Test Cases/AddShop/AddShop: Test Cases/AddShop/AddShop
+
+2018-10-22 00:07:57 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-22 00:08:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-22 00:08:05 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://kula-9ad00.firebaseapp.com/' successfully
+
+2018-10-22 00:08:10 - [MESSAGE][PASSED] - Navigate to 'https://kula-9ad00.firebaseapp.com/' successfully
+
+2018-10-22 00:08:10 - [TEST_STEP][PASSED] - setText: Text 'kula4@kula.ai' is set on object 'Object Repository/Login/input_Login_exampleInputEmail1'
+
+2018-10-22 00:08:11 - [MESSAGE][PASSED] - Text 'kula4@kula.ai' is set on object 'Object Repository/Login/input_Login_exampleInputEmail1'
+
+2018-10-22 00:08:11 - [TEST_STEP][PASSED] - setText: Text 'kulaai' is set on object 'Object Repository/Login/input_Login_exampleInputPasswo'
+
+2018-10-22 00:08:12 - [MESSAGE][PASSED] - Text 'kulaai' is set on object 'Object Repository/Login/input_Login_exampleInputPasswo'
+
+2018-10-22 00:08:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Login/button_Login' is clicked on
+
+2018-10-22 00:08:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_Login' is clicked on
+
+2018-10-22 00:08:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddShop/ShopDetails' is clicked on
+
+2018-10-22 00:08:17 - [MESSAGE][PASSED] - Object: 'Object Repository/AddShop/ShopDetails' is clicked on
+
+2018-10-22 00:08:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddShop/button_My Shop' is clicked on
+
+2018-10-22 00:08:18 - [MESSAGE][PASSED] - Object: 'Object Repository/AddShop/button_My Shop' is clicked on
+
+2018-10-22 00:08:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddShop/Category' is clicked on
+
+2018-10-22 00:08:18 - [MESSAGE][PASSED] - Object: 'Object Repository/AddShop/Category' is clicked on
+
+2018-10-22 00:08:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddShop/a_Eateries' is clicked on
+
+2018-10-22 00:08:19 - [MESSAGE][PASSED] - Object: 'Object Repository/AddShop/a_Eateries' is clicked on
+
+2018-10-22 00:08:19 - [TEST_STEP][PASSED] - setText: Text 'Ropar' is set on object 'Object Repository/AddShop/input_Name_form-control'
+
+2018-10-22 00:08:19 - [MESSAGE][PASSED] - Text 'Ropar' is set on object 'Object Repository/AddShop/input_Name_form-control'
+
+2018-10-22 00:08:19 - [TEST_STEP][PASSED] - setText: Text 'Ropar, Punjab, India' is set on object 'Object Repository/AddShop/input_Address_form-control'
+
+2018-10-22 00:08:20 - [MESSAGE][PASSED] - Text 'Ropar, Punjab, India' is set on object 'Object Repository/AddShop/input_Address_form-control'
+
+2018-10-22 00:08:20 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-10-22 00:08:26 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-10-22 00:08:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddShop/input_Name_form-control' is clicked on
+
+2018-10-22 00:08:26 - [MESSAGE][PASSED] - Object: 'Object Repository/AddShop/input_Name_form-control' is clicked on
+
+2018-10-22 00:08:26 - [TEST_STEP][PASSED] - setText: Text '1234567890' is set on object 'Object Repository/AddShop/input_Phone_form-control'
+
+2018-10-22 00:08:26 - [MESSAGE][PASSED] - Text '1234567890' is set on object 'Object Repository/AddShop/input_Phone_form-control'
+
+2018-10-22 00:08:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddShop/button_Create' is clicked on
+
+2018-10-22 00:08:26 - [MESSAGE][PASSED] - Object: 'Object Repository/AddShop/button_Create' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-22 00:07:55 - [TEST_SUITE][PASSED] - AddShop: Test Cases/AddShop/AddShop]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

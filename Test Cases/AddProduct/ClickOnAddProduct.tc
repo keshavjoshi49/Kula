@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickOnAddProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99faa6d9-32c9-4432-8882-2c57d99c15ee</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>26d7a8fe-9784-48b6-9697-813c054b2070</id>
+      <masked>false</masked>
+      <name>SiteUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>255d8aa5-8c6b-4b31-8adf-130a463c1ad2</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07d8bc39-1d33-4597-8274-bcb4d3e4a6a1</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

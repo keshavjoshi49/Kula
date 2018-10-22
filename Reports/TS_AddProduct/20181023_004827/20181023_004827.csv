@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_AddProduct,Firefox 60.0,,2018-10-23 00:48:33,2018-10-23 00:49:52,1m - 19.196s,FAILED
+,,,,,,
+Test Cases/AddProduct/AddProduct,Firefox 60.0,,2018-10-23 00:48:34,2018-10-23 00:49:52,1m - 17.771s,FAILED
+openBrowser,Firefox 60.0,,2018-10-23 00:48:35,2018-10-23 00:48:59,23.831s,PASSED
+navigateToUrl,Firefox 60.0,,2018-10-23 00:48:59,2018-10-23 00:49:07,8.310s,PASSED
+setText,Firefox 60.0,,2018-10-23 00:49:07,2018-10-23 00:49:08,0.848s,PASSED
+setText,Firefox 60.0,,2018-10-23 00:49:08,2018-10-23 00:49:08,0.128s,PASSED
+click,Firefox 60.0,,2018-10-23 00:49:08,2018-10-23 00:49:09,0.417s,PASSED
+click,Firefox 60.0,,2018-10-23 00:49:09,2018-10-23 00:49:19,10.120s,PASSED
+click,Firefox 60.0,,2018-10-23 00:49:19,2018-10-23 00:49:19,0.727s,PASSED
+click,Firefox 60.0,,2018-10-23 00:49:19,2018-10-23 00:49:52,32.193s,FAILED

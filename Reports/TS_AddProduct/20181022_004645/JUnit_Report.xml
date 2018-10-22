@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_AddProduct" time="29" tests="1" failures="0" errors="0">
+   <testsuite name="TS_AddProduct" tests="1" failures="0" errors="0" time="29" timestamp="2018-10-22 00:46:48" hostname="NITISH - home" id="Test Suites/TS_AddProduct">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\Kula\\Project\\KulaProject\\New\\Kula\\Reports\\TS_AddProduct\\20181022_004645"/>
+         <property name="logFiles" value="E:\\Kula\\Project\\KulaProject\\New\\Kula\\Reports\\TS_AddProduct\\20181022_004645\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="NITISH - home"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="192.168.0.103"/>
+         <property name="sessionId" value="06caa28f7e9e5dc7ace3e9d4a33d171c"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/AddProduct/AddProduct" classname="Test Cases/AddProduct/AddProduct" status="PASSED">
+         <system-out><![CDATA[2018-10-22 00:46:49 - [TEST_CASE][PASSED] - Test Cases/AddProduct/AddProduct: Test Cases/AddProduct/AddProduct
+
+2018-10-22 00:46:49 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-22 00:46:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-22 00:46:53 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://kula-9ad00.firebaseapp.com/' successfully
+
+2018-10-22 00:47:08 - [MESSAGE][PASSED] - Navigate to 'https://kula-9ad00.firebaseapp.com/' successfully
+
+2018-10-22 00:47:08 - [TEST_STEP][PASSED] - setText: Text 'kula4@kula.ai' is set on object 'Object Repository/Login/input_Login_exampleInputEmail1'
+
+2018-10-22 00:47:09 - [MESSAGE][PASSED] - Text 'kula4@kula.ai' is set on object 'Object Repository/Login/input_Login_exampleInputEmail1'
+
+2018-10-22 00:47:09 - [TEST_STEP][PASSED] - setText: Text 'kulaai' is set on object 'Object Repository/Login/input_Login_exampleInputPasswo'
+
+2018-10-22 00:47:09 - [MESSAGE][PASSED] - Text 'kulaai' is set on object 'Object Repository/Login/input_Login_exampleInputPasswo'
+
+2018-10-22 00:47:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Login/button_Login' is clicked on
+
+2018-10-22 00:47:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_Login' is clicked on
+
+2018-10-22 00:47:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddShop/ShopDetails' is clicked on
+
+2018-10-22 00:47:14 - [MESSAGE][PASSED] - Object: 'Object Repository/AddShop/ShopDetails' is clicked on
+
+2018-10-22 00:47:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddProduct/button_Add Product' is clicked on
+
+2018-10-22 00:47:15 - [MESSAGE][PASSED] - Object: 'Object Repository/AddProduct/button_Add Product' is clicked on
+
+2018-10-22 00:47:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddProduct/button_Product' is clicked on
+
+2018-10-22 00:47:16 - [MESSAGE][PASSED] - Object: 'Object Repository/AddProduct/button_Product' is clicked on
+
+2018-10-22 00:47:16 - [TEST_STEP][PASSED] - setText: Text 'MyProduct' is set on object 'Object Repository/AddProduct/input_Product Name_form-contro'
+
+2018-10-22 00:47:16 - [MESSAGE][PASSED] - Text 'MyProduct' is set on object 'Object Repository/AddProduct/input_Product Name_form-contro'
+
+2018-10-22 00:47:16 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/AddProduct/input__form-control'
+
+2018-10-22 00:47:16 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/AddProduct/input__form-control'
+
+2018-10-22 00:47:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddProduct/Page_ReactJS Firebase/button_Create' is clicked on
+
+2018-10-22 00:47:17 - [MESSAGE][PASSED] - Object: 'Object Repository/AddProduct/Page_ReactJS Firebase/button_Create' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-22 00:46:48 - [TEST_SUITE][PASSED] - TS_AddProduct: Test Cases/AddProduct/AddProduct]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

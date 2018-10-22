@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+AddShop,Firefox 62.0,,2018-10-21 22:30:29,2018-10-21 22:32:16,1m - 46.368s,FAILED
+,,,,,,
+Test Cases/AddShop/AddShop,Firefox 62.0,,2018-10-21 22:30:30,2018-10-21 22:32:15,1m - 44.795s,FAILED
+openBrowser,Firefox 62.0,,2018-10-21 22:30:31,2018-10-21 22:31:14,42.754s,PASSED
+navigateToUrl,Firefox 62.0,,2018-10-21 22:31:14,2018-10-21 22:31:29,15.565s,PASSED
+setText,Firefox 62.0,,2018-10-21 22:31:29,2018-10-21 22:31:30,0.560s,PASSED
+setText,Firefox 62.0,,2018-10-21 22:31:30,2018-10-21 22:31:30,0.174s,PASSED
+click,Firefox 62.0,,2018-10-21 22:31:30,2018-10-21 22:31:31,0.874s,PASSED
+click,Firefox 62.0,,2018-10-21 22:31:31,2018-10-21 22:31:40,9.617s,PASSED
+click,Firefox 62.0,,2018-10-21 22:31:40,2018-10-21 22:31:42,2.133s,PASSED
+switchToWindowIndex,Firefox 62.0,,2018-10-21 22:31:42,2018-10-21 22:32:15,32.399s,FAILED
